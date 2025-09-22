@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# If you need to know if some types of files are in a dir on a remote server.
+# If you need to know if some types of files are in a dir on a remote server based on some patterns.
 
 PATTERN_1="first_pattern"
 PATTERN_2="second_pattern"
